@@ -11,4 +11,4 @@
 
 ------------
 
-- **Made with ❤️ by Ismail Habibi.**
+**Made with ❤️ by Ismail Habibi.**
